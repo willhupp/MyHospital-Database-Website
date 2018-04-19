@@ -1,0 +1,29 @@
+.navbar-inverse {
+    background-color: #337ab7;
+    border-color: #080808;
+}
+.navbar-inverse .btn-link, .navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav>li>a {
+	color: #fff;
+	text-shadow: 1px 1px 1px #000000;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Oswald', sans-serif;
+}
+body {
+	font-family: 'Raleway', sans-serif;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}

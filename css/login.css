@@ -1,0 +1,70 @@
+#frmLogin {
+    padding: 20px 60px;
+    background: #d3d3d3;
+    color: #000;
+    display: block;
+    border-radius: 4px;
+    text-align:center;
+}
+
+.field-group {
+    margin: 15px 0px;
+}
+
+.input-field {
+    padding: 8px;
+    width: 500px;
+    border: #A3C3E7 1px solid;
+    border-radius: 4px;
+}
+
+.form-submit-button {
+    background: #d9534f;
+    border: 0;
+    padding: 8px 20px;
+    border-radius: 4px;
+    color: #FFF;
+    text-transform: uppercase;
+}
+
+.member-dashboard {
+    padding: 40px;
+    background: #d3d3d3;
+    color: #555;
+    border-radius: 4px;
+    display: inline-block;
+    text-align: center;
+}
+
+.logout-button {
+    color: #09F;
+    text-decoration: none;
+    background: none;
+    border: none;
+    padding: 0px;
+    cursor: pointer;
+}
+
+.error-message {
+    text-align: center;
+    color: #FF0000;
+}
+.upload_link {
+    text-align: center;
+    color: #d9534f;
+}
+
+.demo-content label {
+    width: auto;
+}
+iframe {
+    width: 100%;
+    height: 250px;
+    border: 0;
+}
+
+/*profile*/
+.profile-img {
+    width: 40px;
+    padding: 40px;
+}
